@@ -1,6 +1,6 @@
 {
   "name": "sound-statsig-node",
-  "version": "5.5.0",
+  "version": "5.5.0-sound-fix-logger",
   "description": "Statsig Node.js SDK for usage in multi-user server environments.",
   "main": "dist/index.js",
   "scripts": {
